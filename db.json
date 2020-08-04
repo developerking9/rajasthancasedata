@@ -2,12 +2,16 @@
   "RajasthanCaseReport": [
     {
       "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
+      "Name": "Rajasthan (राजस्थान)",
+      "TotalCases": "1583792",
+      "TotalDeaths": "34968",
+      "TotalRecovered": "1020582",
+      "TotalCaseso": "1.58M",
+      "TotalDeathsw": "34.96K",
+      "TotalRecoveredr": "1.02M",
+      "TotalInc": "52.12K+",
+      "TotalDec": "775+",
+      "TotalRec": "32.55K+",
       "Condition": "Need to improve"
     }
   ]
