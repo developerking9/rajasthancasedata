@@ -2,17 +2,17 @@
   "RajasthanCaseReport": [
     {
       "id": 1,
-      "Name": "Rajasthan (राजस्थान)",
-      "TotalCases": "1583792",
-      "TotalDeaths": "34968",
-      "TotalRecovered": "1020582",
-      "TotalCaseso": "1.58M",
-      "TotalDeathsw": "34.96K",
-      "TotalRecoveredr": "1.02M",
-      "TotalInc": "52.12K+",
-      "TotalDec": "775+",
-      "TotalRec": "32.55K+",
-      "Condition": "Need to improve"
+      "Namerj": "Rajasthan (राजस्थान)",
+      "TotalCasesrj": "1583792",
+      "TotalDeathsrj": "34968",
+      "TotalRecoveredrj": "1020582",
+      "TotalCasesorj": "1.58M",
+      "TotalDeathswrj": "34.96K",
+      "TotalRecoveredrrj": "1.02M",
+      "TotalIncrj": "52.12K+",
+      "TotalDecrj": "775+",
+      "TotalRecrj": "32.55K+",
+      "Conditionrj": "Need to improve"
     }
   ]
 }
